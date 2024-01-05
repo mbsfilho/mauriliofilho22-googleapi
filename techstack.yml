@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/mauriliofilho22-googleapi
 report_id: 31a7421a6773977d476792b9b7f766b1
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:51:31+00:00'
+timestamp: '2024-01-05T08:31:32+00:00'
 requested_by: JoseAlcerreca
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/AdSense.Sample.csproj
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/AdSense.Sample.csproj
   detection_source: AdSense.Sample/AdSense.Sample.csproj
   last_updated_by: sergio gomes
   last_updated_on: 2012-04-03 15:27:24.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -40,6 +42,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/Tasks.ASP.NET.SimpleOAuth2/Scripts/jquery-1.4.1-vsdoc.js
   detection_source: Tasks.ASP.NET.SimpleOAuth2/Scripts/jquery-1.4.1-vsdoc.js
   last_updated_by: David Waters
   last_updated_on: 2011-10-27 09:17:09.000000000 Z
@@ -53,6 +56,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/Drive.Sample/packages.config
   detection_source: Drive.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-06-24 20:08:57.000000000 Z
@@ -64,6 +68,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -73,6 +78,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/Drive.Sample/packages.config
   detection_source: Drive.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-06-24 20:08:57.000000000 Z
@@ -85,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/GoogleApisSamples.sln
   detection_source: GoogleApisSamples.sln
   last_updated_by: Eyal Peled
   last_updated_on: 2013-10-23 19:32:44.000000000 Z
@@ -94,6 +101,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/README.html
   detection_source: AdSense.Sample/README.html
   last_updated_by: sergio gomes
   last_updated_on: 2012-04-03 15:27:24.000000000 Z
@@ -108,7 +116,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12980/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
   detection_source: AdSense.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-03-17 14:06:28.000000000 Z
@@ -123,7 +131,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12984/default_971bb108ce002c2032e407a9046135e1542c46c7.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
   detection_source: AdSense.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-03-17 14:06:28.000000000 Z
@@ -138,7 +146,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13813/default_e637dea816bab62ca037ba8b354e359bd6438b40.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
   detection_source: AdSense.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-03-17 14:06:28.000000000 Z
@@ -152,7 +160,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/15553/default_61d82524affaab871774edfd2f742a1e876d33e5.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/Drive.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/Drive.Sample/packages.config
   detection_source: Drive.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2014-03-17 14:06:28.000000000 Z
@@ -167,7 +175,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12902/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
   detection_source: AdSense.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-10-23 19:32:44.000000000 Z
@@ -181,7 +189,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12917/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
   detection_source: AdSense.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-10-23 19:32:44.000000000 Z
@@ -195,7 +203,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12905/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
   detection_source: AdSense.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-10-23 19:32:44.000000000 Z
@@ -210,7 +218,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12875/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
   detection_source: AdSense.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-10-23 19:32:44.000000000 Z
@@ -224,13 +232,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
   detection_source: AdSense.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-10-23 19:32:44.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -244,7 +258,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13844/default_9392b6bd21074179bfea6d3bfa28b6447ac48306.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
   detection_source: AdSense.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-06-12 19:15:51.000000000 Z
@@ -259,7 +273,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12851/default_a3ccb59f9bc7225d3e241611dc27d0f4cd9875eb.png
-  detection_source_url: github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
   detection_source: AdSense.Sample/packages.config
   last_updated_by: Eyal Peled
   last_updated_on: 2013-08-19 12:49:28.000000000 Z
