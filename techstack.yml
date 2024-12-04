@@ -1,0 +1,286 @@
+repo_name: mauriliofilho/mauriliofilho22-googleapi
+report_id: 31a7421a6773977d476792b9b7f766b1
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:55:37+00:00'
+requested_by: JoseAlcerreca
+provider: github
+branch: master
+detected_tools_count: 19
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '4.0'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/AdSense.Sample.csproj
+  detection_source: AdSense.Sample/AdSense.Sample.csproj
+  last_updated_by: sergio gomes
+  last_updated_on: 2012-04-03 15:27:24.000000000 Z
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/Tasks.ASP.NET.SimpleOAuth2/Scripts/jquery-1.4.1-vsdoc.js
+  detection_source: Tasks.ASP.NET.SimpleOAuth2/Scripts/jquery-1.4.1-vsdoc.js
+  last_updated_by: David Waters
+  last_updated_on: 2011-10-27 09:17:09.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/Drive.Sample/packages.config
+  detection_source: Drive.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2013-06-24 20:08:57.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/Drive.Sample/packages.config
+  detection_source: Drive.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2013-06-24 20:08:57.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/GoogleApisSamples.sln
+  detection_source: GoogleApisSamples.sln
+  last_updated_by: Eyal Peled
+  last_updated_on: 2013-10-23 19:32:44.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/README.html
+  detection_source: AdSense.Sample/README.html
+  last_updated_by: sergio gomes
+  last_updated_on: 2012-04-03 15:27:24.000000000 Z
+- name: Google.Apis
+  description: The Google APIs Client Library is a runtime client for working with
+    Google services
+  package_url: https://www.nuget.org/Google.Apis
+  version: 1.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12980/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source: AdSense.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2014-03-17 14:06:28.000000000 Z
+- name: Google.Apis.Auth
+  description: The Google APIs Client Library is a runtime client for working with
+    Google services
+  package_url: https://www.nuget.org/Google.Apis.Auth
+  version: 1.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12984/default_971bb108ce002c2032e407a9046135e1542c46c7.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source: AdSense.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2014-03-17 14:06:28.000000000 Z
+- name: Google.Apis.Core
+  description: The Google APIs Core Library contains the Google APIs HTTP layer, JSON
+    support, Data-store, logging and so on
+  package_url: https://www.nuget.org/Google.Apis.Core
+  version: 1.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13813/default_e637dea816bab62ca037ba8b354e359bd6438b40.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source: AdSense.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2014-03-17 14:06:28.000000000 Z
+- name: Google.Apis.Drive.v2
+  description: Google APIs Client Library for working with Drive v2
+  package_url: https://www.nuget.org/Google.Apis.Drive.v2
+  version: 1.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15553/default_61d82524affaab871774edfd2f742a1e876d33e5.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/Drive.Sample/packages.config
+  detection_source: Drive.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2014-03-17 14:06:28.000000000 Z
+- name: Microsoft.Bcl
+  description: 'This packages enables projects targeting down-level platforms to use
+    some of the types added in later versions including: - CallerMemberNameAttribute
+    - CallerLineNumberAttribute...'
+  package_url: https://www.nuget.org/Microsoft.Bcl
+  version: 1.0.19
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12902/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source: AdSense.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2013-10-23 19:32:44.000000000 Z
+- name: Microsoft.Bcl.Async
+  description: This package enables Visual Studio 2012 projects to use the new 'async'
+    and 'await' keywords
+  package_url: https://www.nuget.org/Microsoft.Bcl.Async
+  version: 1.0.16
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12917/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source: AdSense.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2013-10-23 19:32:44.000000000 Z
+- name: Microsoft.Bcl.Build
+  description: This package provides build infrastructure components so that projects
+    referencing specific Microsoft packages can successfully build
+  package_url: https://www.nuget.org/Microsoft.Bcl.Build
+  version: 1.0.10
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12905/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source: AdSense.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2013-10-23 19:32:44.000000000 Z
+- name: Microsoft.Net.Http
+  description: This package includes HttpClient for sending requests over HTTP, as
+    well as HttpRequestMessage and HttpResponseMessage for processing HTTP messages
+  package_url: https://www.nuget.org/Microsoft.Net.Http
+  version: 2.1.10
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12875/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source: AdSense.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2013-10-23 19:32:44.000000000 Z
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 5.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source: AdSense.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2013-10-23 19:32:44.000000000 Z
+  vulnerabilities:
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
+    cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
+    detected_date: Jun 23
+    severity: high
+    first_patched: 13.0.1
+- name: Zlib.Portable
+  description: A Portable Class Library port of the popular Zlib library from http://dotnetzip.codeplex.com
+  package_url: https://www.nuget.org/Zlib.Portable
+  version: 1.9.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13844/default_9392b6bd21074179bfea6d3bfa28b6447ac48306.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source: AdSense.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2013-06-12 19:15:51.000000000 Z
+- name: log4net
+  description: Log4net is a tool to help the programmer output log statements to a
+    variety of output targets
+  package_url: https://www.nuget.org/log4net
+  version: 2.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12851/default_a3ccb59f9bc7225d3e241611dc27d0f4cd9875eb.png
+  detection_source_url: https://github.com/mauriliofilho/mauriliofilho22-googleapi/blob/master/AdSense.Sample/packages.config
+  detection_source: AdSense.Sample/packages.config
+  last_updated_by: Eyal Peled
+  last_updated_on: 2013-08-19 12:49:28.000000000 Z
+  vulnerabilities:
+  - name: XML External Entity attack in log4net
+    cve_id: CVE-2018-1285
+    cve_url: https://github.com/advisories/GHSA-2cwj-8chv-9pp9
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.0.10
